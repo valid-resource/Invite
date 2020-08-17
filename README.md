@@ -1,2 +1,3 @@
 # Invite
-Request an organization invite by opening an issue.
+
+For sending a invite request to organization opening an issue(Pull Request).
